@@ -1,0 +1,22 @@
+# Binaries
+steam-idle
+*.exe
+*.out
+
+# Build folders
+bin/
+obj/
+build/
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+.cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+:Q
+
